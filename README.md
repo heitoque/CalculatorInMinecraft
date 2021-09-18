@@ -20,3 +20,9 @@ How it works(need to know: how to do binary multiplication and how redstone work
 --12 = 1100
 
 --there are variations on the 1 2 and 3 bits so we need to invert those values
+
+-observations
+
+1-the cauculator has its gates ready for 15x15 (max) but the entrys and exits arent
+
+2-the eigth bit is unreacheable in a 4bits*4bits layout, but it makes sence transistorwise
