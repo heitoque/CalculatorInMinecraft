@@ -1,6 +1,8 @@
 # CauculatorInMinecraft
 A calculador made by redstone that multiplies 1 digit integers.
 
+version: 1.12.2
+
 Part 4 not done yet
 
 How it works(need to know: how to do binary multiplication and how redstone works):
